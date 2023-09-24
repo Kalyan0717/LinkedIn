@@ -1,0 +1,56 @@
+
+
+1. find out total number of characters from a given string
+2. find out wether given  string is an empty or not?
+3. find out which is smallest string between 2 given strings?
+4. find out which is longest string between 2 given strings?
+5. print yes if any one string is an empty between two given strings 
+   otherwise no
+6. print yes if first one is longer than 2nd one between two given strings 
+   otherwise no
+7. print no if first one is shorter than 2nd one between two given strings 
+   otherwise yes
+8. print equal if two given strings are equal in the number of characters 
+   otherwise not equal
+9. print the difference in the number of characters in the two given strings?
+10. read first and last characters from a given string?
+11. read 2nd and last but one characters from a given string?
+12. read middle character from a given string?
+	(assume total number of characters are even)
+13. read middle two characters from a given string?
+	(assume total number of characters are odd)
+14. read all the characters one by one from a given string?
+15. read all the characters in the reverse order one by one from a given string?
+16. read all the first half characters from a given string one by one?
+	(assume total number of characters are even)
+17. read all the 2nd half character from a given string one by one?
+	(assume total number of characters are even)
+18. read all the first half characters in the reverse order from a given string one by one?
+	(assume total number of characters are even)
+19. read all the 2nd half characters in the reverse order 
+	from a given string one by one?
+	(assume total number of characters are even)
+20. read all the alternative characters from a given string one by one?
+	(assume total number of characters are even)
+21. read all the alternative characters in the reverse order 
+	from a given string one by one?
+	(assume total number of characters are even)
+22. read all the upper case alphabets from a given string?
+23. read all the lower case alphabets from a given string?
+24. read all the the digits from a given string?
+25. read all the the spl characters from a given string?
+26. read all the the vowels from a given string?
+27. read all the the consonants from a given string?
+28. read all the occurances of a specfied character from a given string?
+29. find out how many times specfied character available in a given string?
+30. find out how many times specfied character available in 
+    the first half and in  the 2nd half in a given string?
+
+
+
+
+
+
+
+
+
